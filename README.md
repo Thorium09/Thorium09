@@ -2,7 +2,7 @@
 
 # 💫 About Me: 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="300" />
-🚀I’m currently learning Data Structures and Algorithms;<br>📨Ask me about anything, I am happy to help;<br>🌱I’m currently working on Spring Framework;<br>🥅2024 Goals: Rustyy;<br>📭How to reach me: jangidparas826@gmail.com;
+🚀I’m currently learning Data Structures and Algorithms;<br>📨Ask me about anything, I am happy to help;<br>🌱I’m currently working on Spring Framework;<br>🥅2024 Goals: Rust;<br>📭How to reach me: jangidparas826@gmail.com;
 
 
 ## 🌐 Socials:
